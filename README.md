@@ -1,1 +1,1 @@
-solution for AirBnB_clone_v2 tasks
+Team Project to build an AirBnB Clone. By Tobi Tobi
